@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoTradingExp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+512d28bf6109cd8bfb4c333b6eef4932c504bf9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7638ec6cfbf1e805e4c6ec2e47eac52b8f15df")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoTradingExp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoTradingExp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
